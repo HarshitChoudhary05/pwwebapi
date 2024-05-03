@@ -1,0 +1,469 @@
+{
+  "success": true,
+  "data": {
+    "_id": "621c639307e15c0018158759",
+    "type": "REGULAR",
+    "name": "Arjuna JEE 2023",
+    "exam": [
+      "IIT-JEE"
+    ],
+    "class": "11",
+    "language": "Hinglish",
+    "byName": null,
+    "label": [],
+    "description": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n       * {\n           box-sizing: border-box;\n       }\n \n       .column {\n           float: left;\n           padding: 10px;\n           height: 100px;\n       }\n \n       .left {\n           width: 13%;\n           border-bottom-left-radius: 12px;\n           border-top-left-radius: 12px;\n           box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\n       }\n \n       .right {\n           width: 87%;\n           border-bottom-right-radius: 12px;\n           border-top-right-radius: 12px;\n           box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\n \n       }\n \n       .row:after {\n           content: \"\";\n           display: table;\n           clear: both;\n       }\n \n       .shadow {\n           box-shadow: inset -1px 7px 14px -4px #9a6d6d;\n       }\n \n       p {\n           font-family: 'Montserrat', sans-serif;\n           font-weight: 600;\n           font-size: 25px;\n       }\n \n       .desc {\n           margin: 0;\n           color: rgb(84, 75, 75);\n           vertical-align: middle;\n       }\n \n       .number {\n           margin: 0;\n           padding: 18px;\n       }\n \n       .verticle-align {\n           display: flex;\n           align-content: center;\n           align-items: center;\n       }\n       .justify-center {\n           justify-content: center;\n       }\n       .justify-start {\n           justify-content: flex-start;\n       }\n \n       @media(max-width: 1920px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 18px;\n           }\n       }\n       @media (max-width: 1520px) {\n           .article {\n               margin: auto;\n               width: 100%;\n           }\n \n           p {\n               font-size: 16px;\n           }\n       }\n \n       @media (max-width: 1024px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 14px;\n           }\n       }\n       @media (max-width: 768px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 14px;\n           }\n       }\n       @media(max-width: 425px) {\n           .article {\n               margin: auto;\n               width: 100%;\n           }\n           p {\n               font-size: 12px;\n           }\n       }\n       @media (max-width: 374px) {\n           p {\n               font-size: 8px;\n           }\n       }\n       @media (max-width: 425px) {\n           .column {\n               height: 64px;\n           }\n           .left {\n               width: 15%;\n           }\n           .right {\n               width: 85%;\n           }\n       }\n   </style>\n</head>\n<body>\n<section class=\"article\">\n<div class=\"row\">\n<div class=\"column left verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 1000;\">\n<p class=\" number\" style=\"color: #ffffff;\">01</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Complete Class 11th (JEE Mains and Advanced) Syllabus for Session 2022-23. 🎯</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">02</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Bridge Course (Basic Class 11th Topics) will be provided in this batch.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 1000;\">\n<p class=\"number\" style=\"color: #ffffff;\">03</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">We will cover Physics, Chemistry, and Mathematics. <br />Live Lectures will be provided from 8th June. <br />In case you missed the live class you can see it's recording any number of times.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">04</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Lecture Planner &amp; Test Planner has been uploaded in the Batch's Notice Section.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 1000;\">\n<p class=\" number\" style=\"color: #ffffff;\">05</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Dedicated faculties for solving doubts through best-in-class Doubt Engine.&nbsp;</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">06</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Daily Practice Problems (DPP) &amp; its Video Solution of each Lecture will be uploaded after Lectures. <br />The batch will be accessible till JEE ADVANCED ENTRANCE EXAM 2024.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">07</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Syllabus Completion by Jan 2023.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">08</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Only First 2 chapters module PDFs will be provided to students for each subject.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">09</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">NOTE: There is No REFUND Policy. You can change batch between Arjuna JEE or Arjuna NEET within 15 days of your purchase.&nbsp;</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">10</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">NOTE : PW Wallet points are capped for new batches. PW Wallet points can be availed for purchasing batches only.&nbsp;</p>\n</div>\n</div>\n</section>\n<p><strong><span style=\"color: #000000;\">✒️ NOTE : None of our PW Yoddha ,official retailers and PW community members would ask you to make payments on another platforms other than official PW APP or Website. Any form of coupon or link will redirect you to PW App or website only.Please Avoid paying any amount to individuals through PayTM, Google Pay, Phonepe or any UPI platform.</span><br /></strong></p>\n</body>\n</html>",
+    "batchCode": "ARJ221281122",
+    "startDate": "2022-06-07T18:30:00.000Z",
+    "endDate": "2024-09-30T18:29:59.000Z",
+    "programId": "5eb3b1017b1fb86475ec30eb",
+    "fee": {
+      "amount": 4800,
+      "tax": 0,
+      "discount": 16.666,
+      "total": 4000.032
+    },
+    "isPurchased": true,
+    "isBlocked": false,
+    "isChatBlocked": false,
+    "subjects": [
+      {
+        "_id": "621c6393c9cbd000119f838d",
+        "fileId": {
+          "_id": "6230e6bca9247a001104bf0c",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/23774088-e49d-4094-8e61-767934225bd8.pdf",
+          "name": "file.pdf"
+        },
+        "subject": "Chemistry",
+        "subjectId": "5f709c26796f410011b7b80b",
+        "slug": "chemistry-645058",
+        "schedules": [
+          {
+            "_id": "640eec906973c300184de4c5",
+            "day": "MON",
+            "startTime": "2022-06-13T13:00:00.000Z",
+            "endTime": "2022-06-13T14:45:00.000Z"
+          },
+          {
+            "_id": "640eec906973c300184de4c4",
+            "day": "TUE",
+            "startTime": "2022-06-14T13:00:00.000Z",
+            "endTime": "2022-06-14T14:45:00.000Z"
+          },
+          {
+            "_id": "640eec906973c300184de4c3",
+            "day": "FRI",
+            "startTime": "2022-06-10T10:45:00.000Z",
+            "endTime": "2022-06-10T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec906973c300184de4c2",
+            "day": "WED",
+            "startTime": "2022-06-08T13:00:00.000Z",
+            "endTime": "2022-06-08T14:45:00.000Z"
+          },
+          {
+            "_id": "640eec906973c300184de4c1",
+            "day": "SAT",
+            "startTime": "2022-06-11T10:45:00.000Z",
+            "endTime": "2022-06-11T12:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "60879a6df9f6bc0011d758a9",
+            "firstName": "Sarvesh",
+            "lastName": "Dixit Sir",
+            "qualification": "B-Tech",
+            "imageId": {
+              "_id": "61348f368f941e0076897e1c",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/1dd938cd-4a6d-425a-8b71-94382672912f.png",
+              "name": "image-removebg-preview (4).png"
+            },
+            "companyId": null,
+            "featuredLine": "Mehnat Karte rahe, Padhai Karte rahe, All the very best!"
+          },
+          {
+            "_id": "60879ab1f9f6bc0011d758ce",
+            "firstName": "Amit",
+            "lastName": "Mahajan Sir",
+            "qualification": "UGC NET Qualified (AIR 67), GATE Qualified (AIR 511)",
+            "imageId": {
+              "_id": "643514f74160ad00180094aa",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/875d6886-f8d7-461f-acd0-54f3ca24aae5.png",
+              "name": "12_-_Amit_Mahajan-removebg-preview.png"
+            },
+            "companyId": null,
+            "experience": "20",
+            "featuredLine": "You don’t get what you wish for. You get what you work for.."
+          },
+          {
+            "_id": "614f6327c95ee100118420bb",
+            "firstName": "Shivam",
+            "lastName": "Mishra Sir",
+            "qualification": "B-Tech",
+            "imageId": {
+              "_id": "6502c4937121f5001885709d",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/13a722c8-a8f7-464b-a9ad-f86708ed6547.png",
+              "name": "3_-_Shivam_Mishra-removebg-preview.png"
+            },
+            "companyId": null,
+            "experience": "7",
+            "featuredLine": "Do something now; your future self will thank you for later"
+          }
+        ],
+        "imageId": {
+          "_id": "64afb8dad56d5800186c9e3c",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/9f2dff07-df7d-4680-91a2-7d2ad70e8967.png",
+          "name": "file.png"
+        },
+        "tagCount": 23
+      },
+      {
+        "_id": "621c6393c9cbd000119f838e",
+        "fileId": {
+          "_id": "6230e6c24b557c0011cff7df",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/81f097d4-c9dc-446c-9677-ccdf6eaf6247.pdf",
+          "name": "file.pdf"
+        },
+        "subject": "Maths",
+        "subjectId": "5f9ff5bed4fc1f011595f1e0",
+        "slug": "maths-515745",
+        "schedules": [
+          {
+            "_id": "640eec9040390900182bbe99",
+            "day": "MON",
+            "startTime": "2022-06-13T10:45:00.000Z",
+            "endTime": "2022-06-13T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec9040390900182bbe98",
+            "day": "WED",
+            "startTime": "2022-06-08T10:45:00.000Z",
+            "endTime": "2022-06-08T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec9040390900182bbe97",
+            "day": "THU",
+            "startTime": "2022-06-09T10:45:00.000Z",
+            "endTime": "2022-06-09T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec9040390900182bbe96",
+            "day": "FRI",
+            "startTime": "2022-06-10T10:45:00.000Z",
+            "endTime": "2022-06-10T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec9040390900182bbe95",
+            "day": "SAT",
+            "startTime": "2022-06-11T10:45:00.000Z",
+            "endTime": "2022-06-11T12:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "61348cf93746a300d9b7eb4b",
+            "firstName": "Siddhartha",
+            "lastName": "Mishra Sir",
+            "qualification": "JEE Rank holder , B-TECH From HBTI-Kanpur",
+            "imageId": {
+              "_id": "64005d24c05d840018e25655",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/2519d90d-1e51-47a9-89e8-905046372eea.png",
+              "name": "WhatsApp_Image_2023-02-20_at_4.25.24_PM-removebg-preview.png"
+            },
+            "companyId": null,
+            "featuredLine": "JARH BANNA HAI 🔥!  JBK - Jai Baba ki !!"
+          }
+        ],
+        "imageId": {
+          "_id": "64afcd925593180019419757",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/4ce5a759-dd94-42d4-a7a9-e41f717833ab.png",
+          "name": "file.png"
+        },
+        "tagCount": 26
+      },
+      {
+        "_id": "621c6393c9cbd000119f838b",
+        "fileId": {
+          "_id": "628f77cc925382001804fe1d",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/5d1f6a9d-fa5e-403e-8c9e-0e77ec986cf4.pdf",
+          "name": "file.pdf"
+        },
+        "subject": "Physics",
+        "subjectId": "5f709c351b999704b83cca8a",
+        "slug": "physics-062396",
+        "schedules": [
+          {
+            "_id": "640eec905803670018a2ab61",
+            "day": "THU",
+            "startTime": "2022-06-09T13:00:00.000Z",
+            "endTime": "2022-06-09T14:45:00.000Z"
+          },
+          {
+            "_id": "640eec905803670018a2ab60",
+            "day": "FRI",
+            "startTime": "2022-06-10T13:00:00.000Z",
+            "endTime": "2022-06-10T14:45:00.000Z"
+          },
+          {
+            "_id": "640eec905803670018a2ab5f",
+            "day": "TUE",
+            "startTime": "2022-06-14T10:45:00.000Z",
+            "endTime": "2022-06-14T12:30:00.000Z"
+          },
+          {
+            "_id": "640eec905803670018a2ab5e",
+            "day": "SAT",
+            "startTime": "2022-06-11T13:00:00.000Z",
+            "endTime": "2022-06-11T14:45:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "60ae11b68fc1580018961da2",
+            "firstName": "Rajwant",
+            "lastName": "Singh Sir",
+            "qualification": "IIT(ISM) Dhanbad",
+            "imageId": {
+              "_id": "645250514d596f00188393b3",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/5c77ddd8-897b-4017-aef2-d61be436cf4e.png",
+              "name": "Rajwant-Singh-Sir.png"
+            },
+            "companyId": null,
+            "experience": "7",
+            "featuredLine": "Welcome to PW"
+          }
+        ],
+        "imageId": {
+          "_id": "64afe847a5415f0018de88dd",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/bc2c62dd-a5c5-4da6-93ec-4793a6932071.png",
+          "name": "file.png"
+        },
+        "tagCount": 25
+      },
+      {
+        "_id": "621c6393c9cbd000119f838f",
+        "subject": "Notices",
+        "subjectId": "5f821b41c94a920018e76340",
+        "slug": "notices-029917",
+        "schedules": [],
+        "teacherIds": [],
+        "imageId": {
+          "_id": "654b5b97a6cfa80018a30969",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/95a17012-9abb-4254-82d9-2b18ce08d9dc.png",
+          "name": "file.png"
+        },
+        "tagCount": 17
+      },
+      {
+        "_id": "622059d9093f550011cce217",
+        "subject": "Bridge Course",
+        "subjectId": "6220577544fa0c001811b157",
+        "slug": "bridge-course-033265",
+        "schedules": [],
+        "teacherIds": [],
+        "imageId": {
+          "_id": "6453a96cb197f400180257c5",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/b1481284-c857-49e5-b7bd-0ae1197a8433.jpg",
+          "name": "file.jpg"
+        },
+        "tagCount": 18
+      }
+    ],
+    "status": "Active",
+    "isAvailableFromPoints": true,
+    "maxWalletPoint": 300,
+    "registrationStartDate": "2022-02-27T18:30:00.000Z",
+    "registrationEndDate": "2023-08-06T18:29:59.000Z",
+    "previewImage": {
+      "_id": "63948b1606a00001a6f8cead",
+      "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+      "key": "5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png",
+      "name": "file.png"
+    },
+    "orientationClassBanner": null,
+    "batchPdf": null,
+    "previewVideoType": "youtube",
+    "previewVideoUrl": "https://www.youtube.com/watch?v=_wm7ebFXsXo",
+    "previewVideoId": null,
+    "faqCat": "628deee0ebde8f001154dffb",
+    "attachTestCat": true,
+    "testCat": "62b58ab76fbeb0001145e467",
+    "testCats": [
+      "62b58ab76fbeb0001145e467"
+    ],
+    "meta": [
+      {
+        "_id": "65d5d492817c3e0018faef7d",
+        "key": "Live Lectures",
+        "value": "320+",
+        "displayOrder": 1
+      },
+      {
+        "_id": "65d5d492817c3e0018faef7e",
+        "key": "DPP",
+        "value": "300+",
+        "displayOrder": 2
+      },
+      {
+        "_id": "65d5d492817c3e0018faef7f",
+        "key": "DPP Solution",
+        "value": "300+",
+        "displayOrder": 3
+      },
+      {
+        "_id": "65d5d492817c3e0018faef80",
+        "key": "Test",
+        "value": "10+",
+        "displayOrder": 4
+      }
+    ],
+    "buddyRoomId": "",
+    "previewVideoDetails": {
+      "name": "Arjuna Batch for Class 11th & JEE/NEET @3800/-. Valid till 8th June",
+      "image": "https://i.ytimg.com/vi/_wm7ebFXsXo/mqdefault.jpg",
+      "embedCode": "https://www.youtube.com/watch?v=_wm7ebFXsXo",
+      "description": "",
+      "duration": "1:07",
+      "_id": "62f698dd7b95890019558bc8",
+      "createdAt": "2022-08-12T18:15:57.792Z"
+    },
+    "enableStudyMaterial": true,
+    "studyMaterials": [
+      {
+        "_id": "65d5d492817c3e0018faef7c",
+        "typeId": "63ae04825ee8c1a4b149faaa",
+        "type": "BOOK"
+      }
+    ],
+    "markedAsNew": false,
+    "isClassLive": false,
+    "isPathshala": false,
+    "slug": "arjuna-jee-2023-426578",
+    "khazanaProgramId": "62cc7a39ea773600110bec2f",
+    "config": {
+      "isStartDateEnabled": false,
+      "isEndDateEnabled": false,
+      "isTeacherNameEnabled": false,
+      "isVidyapeeth": false,
+      "enableBatchReferAndEarn": true,
+      "referAndEarnExpireAt": "2024-09-30",
+      "isFormEnabled": false,
+      "isSubjective": false,
+      "isPremium": false,
+      "fbtPageTitle": "Items in Cart",
+      "fbtTitle": "PW Recommended Combos",
+      "isAddonVisible": true,
+      "addonsTitle": "Recommended Store Items",
+      "addonsDescription": "Recommended for you",
+      "classEndDate": "2024-05-30T18:30:00.000Z",
+      "enableNotes": true,
+      "enableDpp": true,
+      "enableDppPdfs": true,
+      "enableDppVideos": true,
+      "isAttendanceEnable": false,
+      "isCardEMIEnable": false,
+      "isSecondaryScreenEnabled": false,
+      "isSPDEnabled": false
+    },
+    "isRecorded": false,
+    "enableCommunity": false,
+    "enableCommunityWeb": false,
+    "enableSuper40": false,
+    "manualAllotmentCount": 20,
+    "isPayLaterEnabled": false,
+    "isSelfLearning": false,
+    "priceLabel": "(For full batch)",
+    "dRoomId": "62a04f23387e5200119513fb",
+    "packValidity": 0,
+    "shortDescription": "<!DOCTYPE html>\n<html lang=\"en\">\n <head>\n   <meta charset=\"UTF-8\" />\n   <style>\n     .description-meta-container {\n       display: flex !important;\n       flex-direction: column !important;\n       gap: 14px !important;\n     }\n\n     .child-container {\n       display: flex !important;\n       align-items: center !important;\n       gap: 12px !important;\n     }\n\n     .icon {\n       width: 32px !important;\n       height: 32px !important;\n     }\n\n     .sub-text {\n       font-size: 14px !important;\n       font-weight: 500 !important;\n       color: #888888 !important;\n     }\n\n     .main-text {\n       font-size: 14px !important;\n       font-weight: 600 !important;\n       color: #1b2124 !important;\n     }\n\n     .text {\n       font-size: 14px !important;\n       font-weight: 500 !important;\n       color: #1b2124 !important;\n     }\n\n     .text-container {\n       display: flex !important;\n       flex-direction: column !important;\n       gap: 4px !important;\n     }\n   </style>\n </head>\n <body>\n<div class=\"description-meta-container\">\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f463046e-0ed5-43b3-981c-944985082135.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Duration: </span> <span class=\"main-text\"> 08 Jun 2022 - 30 Sep 2024.</span></div>\n</div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Validity: Till Jee Mains &amp; Advance 2024.</span></div>\n</div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" /> <span class=\"text\"> Recording of all Live lectures available.</span></div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" /> <span class=\"text\"> Chapter level DPP, Test Assignments.</span></div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a5affa35-0c73-4ca1-8600-65d7ca8a328b.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Subjects: </span> <span class=\"main-text\"> Physics, Chemistry, Maths, etc. </span></div>\n</div>\n</div>\n</body>\n</html>",
+    "metaText": "",
+    "isInfinitePracticeEnabled": false,
+    "infinitePracticeVideoType": "none",
+    "countryGroup": "IN",
+    "notifyMeStatus": "BATCH_STARTED",
+    "registerTag": "",
+    "isAskSaarthiEnabled": false,
+    "enableMentorship": false,
+    "discountValue": 0,
+    "discountLabel": "",
+    "bannerLabel": "",
+    "discountExpiryDate": "",
+    "isSatExamEnable": false,
+    "isBatchContentSecurityEnabled": false,
+    "pitaraProgramId": null,
+    "pitaraTheme": null,
+    "isDoubtEnabled": true,
+    "isDoubtRecommendationEnabled": false,
+    "appleInAppPurchase": {},
+    "isBatchPlusEnabled": false,
+    "fomoIcons": [],
+    "batchPdfUrl": null,
+    "template": "NORMAL",
+    "userLimit": 0,
+    "userCount": 0,
+    "roomCount": 0,
+    "masterBatchId": null,
+    "activeSectionBatchId": null,
+    "replicatedBy": null,
+    "webinarId": null,
+    "testPress": null,
+    "displayOrder": -6,
+    "isBatchClubbing": false,
+    "program": {
+      "_id": "5eb3b1017b1fb86475ec30eb",
+      "name": "Complete Programe",
+      "board": "CBSE",
+      "class": "12+",
+      "exam": [
+        "AE/JE",
+        "BOARD_EXAM",
+        "BPSC",
+        "Banking",
+        "CA",
+        "COMMERCE",
+        "CUET UG",
+        "FOUNDATION",
+        "GATE",
+        "IIT JAM",
+        "IIT JAM & CSIR NET",
+        "IIT-JEE",
+        "KVPY",
+        "LAW",
+        "MBA",
+        "MPPSC",
+        "MPSC",
+        "NDA",
+        "NEET",
+        "NSAT",
+        "NTSE",
+        "OLYMPIAD",
+        "PRE_FOUNDATION",
+        "PW_ONLY_IAS",
+        "Railway",
+        "SSC",
+        "TET",
+        "UP Exams",
+        "UPPSC",
+        "UPSC",
+        "skills"
+      ],
+      "language": "English",
+      "slug": "complete-programe-256787"
+    }
+  },
+  "dataFrom": "NODE12"
+}
